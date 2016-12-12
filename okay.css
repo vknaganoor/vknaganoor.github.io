@@ -1,0 +1,97 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family:  'Constantia', Constantia;
+
+}
+
+p, div {
+  font-family: 'Constantia', Constantia;
+
+}
+
+body {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url('/me_1.jpg') repeat 0 0;
+}
+
+.container-narrow {
+    margin: 0 auto;
+    max-width: 700px;
+  }
+
+.container-narrow > hr {
+    margin: 40px 0 0 0;
+  }
+
+
+ .marketing {
+  margin: 40px 0;
+}
+
+.jumbotron{
+ font-family: 'Roboto', Constantia;
+
+
+}
+
+
+.marketing p + h4 {
+  margin-top: 28px;
+}
+
+.submit{
+  margin: 50px 0px 0px 20px ;
+  text-align: center;
+
+  ;
+}
+ul li {
+	margin: 10px 10px 0px 20px ;
+	display: inline-block;
+}
+
+ul p{
+	margin: 1px 1px 0px 0px ;
+}
+
+
+
+h1 {
+    font-family: 'Roboto', Georgia;
+    font-size: 250%;
+    padding: 0px
+}
+
+
+heading {
+    font-family: 'Open Sans Condensed', Georgia;
+    margin: 0px 0px 0px 0px ;
+    padding: 0px
+}
+
+.roundrect {
+border-radius: 15px;
+}
+
+
+.container p {
+ font-family: 'Roboto', Constantia;
+
+}
+
+p {
+  font-family: 'Roboto', Georgia;
+  color: black
+  letter-spacing: 1.5px;
+  font-size: 110%;
+
+}
+
+.container p blockquote{
+
+font-family: 'Roboto', Georgia;
+  color: ligtblue
+  letter-spacing: 1.5px;
+  font-size: 250%;
+
+}
